@@ -13,6 +13,7 @@ export default defineConfig({
         "./Header": "./src/Header.tsx",
         "./Header2": "./src/Header2.tsx",
         "./Footer": "./src/Footer.tsx",
+        "./PropsFile": "./src/PropsFile.tsx",
       },
       shared: ["react"],
     }),
